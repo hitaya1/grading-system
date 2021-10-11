@@ -1,5 +1,5 @@
 //add your students git handles
-const studs = ['LABerk', 'paigekelsey', 'Kongyuechen', 'JeffreyLWood', 'davdli', 'gregbabbert']
+const studs = ['1', '2', '3', '4', '5', '6']
 //change the name of checkpoint you're going to check
 const checkpoint = 'Checkpoint-React-v2'
 const { mkdir } = require('fs');
