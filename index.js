@@ -9,3 +9,5 @@ const shell = require('shelljs')
 for (let stud of studs) {
   shell.exec(`git clone git@github.com:${stud}/${checkpoint}.git ${stud}`)
 }
+
+//just run this file in node:)
