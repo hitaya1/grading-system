@@ -6,7 +6,7 @@ const { mkdir } = require('fs');
 //dont forget to npm i shelljs
 const shell = require('shelljs')
 
+//
 for (let stud of studs) {
   shell.exec(`git clone git@github.com:${stud}/${checkpoint}.git ${stud}`)
 }
-
