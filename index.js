@@ -1,5 +1,5 @@
 //add your students github handles
-const studs = ['LABerk', 'paigekelsey', 'Kongyuechen', 'JeffreyLWood', 'davdli', 'gregbabbert']
+const studs = ['', '', '', '', '', '']
 //change the name of checkpoint you're going to check
 const checkpoint = 'Checkpoint-React-v2'
 //dont forget to npm i shelljs
